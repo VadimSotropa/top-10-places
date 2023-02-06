@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "top 10 places",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "top 10 places"
+	}
+}
